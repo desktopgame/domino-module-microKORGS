@@ -1,0 +1,964 @@
+<?xml version="1.0" ?>
+<ModuleData Name="microKORGS" Folder="" Priority="1" FileCreator="desktopgame" FileVersion="1.00" WebSite="https://github.com/desktopgame">
+   <InstrumentList>
+      <Map Name="A">
+         <PC Name="TRANCE_A11_0" PC="1">
+            <Bank Name="TRANCE_A11_0"/>
+         </PC>
+         <PC Name="TRANCE_A12_1" PC="2">
+            <Bank Name="TRANCE_A12_1"/>
+         </PC>
+         <PC Name="TRANCE_A13_2" PC="3">
+            <Bank Name="TRANCE_A13_2"/>
+         </PC>
+         <PC Name="TRANCE_A14_3" PC="4">
+            <Bank Name="TRANCE_A14_3"/>
+         </PC>
+         <PC Name="TRANCE_A15_4" PC="5">
+            <Bank Name="TRANCE_A15_4"/>
+         </PC>
+         <PC Name="TRANCE_A16_5" PC="6">
+            <Bank Name="TRANCE_A16_5"/>
+         </PC>
+         <PC Name="TRANCE_A17_6" PC="7">
+            <Bank Name="TRANCE_A17_6"/>
+         </PC>
+         <PC Name="TRANCE_A18_7" PC="8">
+            <Bank Name="TRANCE_A18_7"/>
+         </PC>
+         <PC Name="TECHNO/HOUSE_A21_8" PC="9">
+            <Bank Name="TECHNO/HOUSE_A21_8"/>
+         </PC>
+         <PC Name="TECHNO/HOUSE_A22_9" PC="10">
+            <Bank Name="TECHNO/HOUSE_A22_9"/>
+         </PC>
+         <PC Name="TECHNO/HOUSE_A23_10" PC="11">
+            <Bank Name="TECHNO/HOUSE_A23_10"/>
+         </PC>
+         <PC Name="TECHNO/HOUSE_A24_11" PC="12">
+            <Bank Name="TECHNO/HOUSE_A24_11"/>
+         </PC>
+         <PC Name="TECHNO/HOUSE_A25_12" PC="13">
+            <Bank Name="TECHNO/HOUSE_A25_12"/>
+         </PC>
+         <PC Name="TECHNO/HOUSE_A26_13" PC="14">
+            <Bank Name="TECHNO/HOUSE_A26_13"/>
+         </PC>
+         <PC Name="TECHNO/HOUSE_A27_14" PC="15">
+            <Bank Name="TECHNO/HOUSE_A27_14"/>
+         </PC>
+         <PC Name="TECHNO/HOUSE_A28_15" PC="16">
+            <Bank Name="TECHNO/HOUSE_A28_15"/>
+         </PC>
+         <PC Name="ELECTRONICA_A31_16" PC="17">
+            <Bank Name="ELECTRONICA_A31_16"/>
+         </PC>
+         <PC Name="ELECTRONICA_A32_17" PC="18">
+            <Bank Name="ELECTRONICA_A32_17"/>
+         </PC>
+         <PC Name="ELECTRONICA_A33_18" PC="19">
+            <Bank Name="ELECTRONICA_A33_18"/>
+         </PC>
+         <PC Name="ELECTRONICA_A34_19" PC="20">
+            <Bank Name="ELECTRONICA_A34_19"/>
+         </PC>
+         <PC Name="ELECTRONICA_A35_20" PC="21">
+            <Bank Name="ELECTRONICA_A35_20"/>
+         </PC>
+         <PC Name="ELECTRONICA_A36_21" PC="22">
+            <Bank Name="ELECTRONICA_A36_21"/>
+         </PC>
+         <PC Name="ELECTRONICA_A37_22" PC="23">
+            <Bank Name="ELECTRONICA_A37_22"/>
+         </PC>
+         <PC Name="ELECTRONICA_A38_23" PC="24">
+            <Bank Name="ELECTRONICA_A38_23"/>
+         </PC>
+         <PC Name="D'n'B/BREAKS_A41_24" PC="25">
+            <Bank Name="D'n'B/BREAKS_A41_24"/>
+         </PC>
+         <PC Name="D'n'B/BREAKS_A42_25" PC="26">
+            <Bank Name="D'n'B/BREAKS_A42_25"/>
+         </PC>
+         <PC Name="D'n'B/BREAKS_A43_26" PC="27">
+            <Bank Name="D'n'B/BREAKS_A43_26"/>
+         </PC>
+         <PC Name="D'n'B/BREAKS_A44_27" PC="28">
+            <Bank Name="D'n'B/BREAKS_A44_27"/>
+         </PC>
+         <PC Name="D'n'B/BREAKS_A45_28" PC="29">
+            <Bank Name="D'n'B/BREAKS_A45_28"/>
+         </PC>
+         <PC Name="D'n'B/BREAKS_A46_29" PC="30">
+            <Bank Name="D'n'B/BREAKS_A46_29"/>
+         </PC>
+         <PC Name="D'n'B/BREAKS_A47_30" PC="31">
+            <Bank Name="D'n'B/BREAKS_A47_30"/>
+         </PC>
+         <PC Name="D'n'B/BREAKS_A48_31" PC="32">
+            <Bank Name="D'n'B/BREAKS_A48_31"/>
+         </PC>
+         <PC Name="HIPHOP_A51_32" PC="33">
+            <Bank Name="HIPHOP_A51_32"/>
+         </PC>
+         <PC Name="HIPHOP_A52_33" PC="34">
+            <Bank Name="HIPHOP_A52_33"/>
+         </PC>
+         <PC Name="HIPHOP_A53_34" PC="35">
+            <Bank Name="HIPHOP_A53_34"/>
+         </PC>
+         <PC Name="HIPHOP_A54_35" PC="36">
+            <Bank Name="HIPHOP_A54_35"/>
+         </PC>
+         <PC Name="HIPHOP_A55_36" PC="37">
+            <Bank Name="HIPHOP_A55_36"/>
+         </PC>
+         <PC Name="HIPHOP_A56_37" PC="38">
+            <Bank Name="HIPHOP_A56_37"/>
+         </PC>
+         <PC Name="HIPHOP_A57_38" PC="39">
+            <Bank Name="HIPHOP_A57_38"/>
+         </PC>
+         <PC Name="HIPHOP_A58_39" PC="40">
+            <Bank Name="HIPHOP_A58_39"/>
+         </PC>
+         <PC Name="RETRO_A61_40" PC="41">
+            <Bank Name="RETRO_A61_40"/>
+         </PC>
+         <PC Name="RETRO_A62_41" PC="42">
+            <Bank Name="RETRO_A62_41"/>
+         </PC>
+         <PC Name="RETRO_A63_42" PC="43">
+            <Bank Name="RETRO_A63_42"/>
+         </PC>
+         <PC Name="RETRO_A64_43" PC="44">
+            <Bank Name="RETRO_A64_43"/>
+         </PC>
+         <PC Name="RETRO_A65_44" PC="45">
+            <Bank Name="RETRO_A65_44"/>
+         </PC>
+         <PC Name="RETRO_A66_45" PC="46">
+            <Bank Name="RETRO_A66_45"/>
+         </PC>
+         <PC Name="RETRO_A67_46" PC="47">
+            <Bank Name="RETRO_A67_46"/>
+         </PC>
+         <PC Name="RETRO_A68_47" PC="48">
+            <Bank Name="RETRO_A68_47"/>
+         </PC>
+         <PC Name="S.E./HIT_A71_48" PC="49">
+            <Bank Name="S.E./HIT_A71_48"/>
+         </PC>
+         <PC Name="S.E./HIT_A72_49" PC="50">
+            <Bank Name="S.E./HIT_A72_49"/>
+         </PC>
+         <PC Name="S.E./HIT_A73_50" PC="51">
+            <Bank Name="S.E./HIT_A73_50"/>
+         </PC>
+         <PC Name="S.E./HIT_A74_51" PC="52">
+            <Bank Name="S.E./HIT_A74_51"/>
+         </PC>
+         <PC Name="S.E./HIT_A75_52" PC="53">
+            <Bank Name="S.E./HIT_A75_52"/>
+         </PC>
+         <PC Name="S.E./HIT_A76_53" PC="54">
+            <Bank Name="S.E./HIT_A76_53"/>
+         </PC>
+         <PC Name="S.E./HIT_A77_54" PC="55">
+            <Bank Name="S.E./HIT_A77_54"/>
+         </PC>
+         <PC Name="S.E./HIT_A78_55" PC="56">
+            <Bank Name="S.E./HIT_A78_55"/>
+         </PC>
+         <PC Name="VOCODER_A81_56" PC="57">
+            <Bank Name="VOCODER_A81_56"/>
+         </PC>
+         <PC Name="VOCODER_A82_57" PC="58">
+            <Bank Name="VOCODER_A82_57"/>
+         </PC>
+         <PC Name="VOCODER_A83_58" PC="59">
+            <Bank Name="VOCODER_A83_58"/>
+         </PC>
+         <PC Name="VOCODER_A84_59" PC="60">
+            <Bank Name="VOCODER_A84_59"/>
+         </PC>
+         <PC Name="VOCODER_A85_60" PC="61">
+            <Bank Name="VOCODER_A85_60"/>
+         </PC>
+         <PC Name="VOCODER_A86_61" PC="62">
+            <Bank Name="VOCODER_A86_61"/>
+         </PC>
+         <PC Name="VOCODER_A87_62" PC="63">
+            <Bank Name="VOCODER_A87_62"/>
+         </PC>
+         <PC Name="VOCODER_A88_63" PC="64">
+            <Bank Name="VOCODER_A88_63"/>
+         </PC>
+      </Map>
+      <Map Name="B">
+         <PC Name="TRANCE_B11_64" PC="65">
+            <Bank Name="TRANCE_B11_64"/>
+         </PC>
+         <PC Name="TRANCE_B12_65" PC="66">
+            <Bank Name="TRANCE_B12_65"/>
+         </PC>
+         <PC Name="TRANCE_B13_66" PC="67">
+            <Bank Name="TRANCE_B13_66"/>
+         </PC>
+         <PC Name="TRANCE_B14_67" PC="68">
+            <Bank Name="TRANCE_B14_67"/>
+         </PC>
+         <PC Name="TRANCE_B15_68" PC="69">
+            <Bank Name="TRANCE_B15_68"/>
+         </PC>
+         <PC Name="TRANCE_B16_69" PC="70">
+            <Bank Name="TRANCE_B16_69"/>
+         </PC>
+         <PC Name="TRANCE_B17_70" PC="71">
+            <Bank Name="TRANCE_B17_70"/>
+         </PC>
+         <PC Name="TRANCE_B18_71" PC="72">
+            <Bank Name="TRANCE_B18_71"/>
+         </PC>
+         <PC Name="TECHNO/HOUSE_B21_72" PC="73">
+            <Bank Name="TECHNO/HOUSE_B21_72"/>
+         </PC>
+         <PC Name="TECHNO/HOUSE_B22_73" PC="74">
+            <Bank Name="TECHNO/HOUSE_B22_73"/>
+         </PC>
+         <PC Name="TECHNO/HOUSE_B23_74" PC="75">
+            <Bank Name="TECHNO/HOUSE_B23_74"/>
+         </PC>
+         <PC Name="TECHNO/HOUSE_B24_75" PC="76">
+            <Bank Name="TECHNO/HOUSE_B24_75"/>
+         </PC>
+         <PC Name="TECHNO/HOUSE_B25_76" PC="77">
+            <Bank Name="TECHNO/HOUSE_B25_76"/>
+         </PC>
+         <PC Name="TECHNO/HOUSE_B26_77" PC="78">
+            <Bank Name="TECHNO/HOUSE_B26_77"/>
+         </PC>
+         <PC Name="TECHNO/HOUSE_B27_78" PC="79">
+            <Bank Name="TECHNO/HOUSE_B27_78"/>
+         </PC>
+         <PC Name="TECHNO/HOUSE_B28_79" PC="80">
+            <Bank Name="TECHNO/HOUSE_B28_79"/>
+         </PC>
+         <PC Name="ELECTRONICA_B31_80" PC="81">
+            <Bank Name="ELECTRONICA_B31_80"/>
+         </PC>
+         <PC Name="ELECTRONICA_B32_81" PC="82">
+            <Bank Name="ELECTRONICA_B32_81"/>
+         </PC>
+         <PC Name="ELECTRONICA_B33_82" PC="83">
+            <Bank Name="ELECTRONICA_B33_82"/>
+         </PC>
+         <PC Name="ELECTRONICA_B34_83" PC="84">
+            <Bank Name="ELECTRONICA_B34_83"/>
+         </PC>
+         <PC Name="ELECTRONICA_B35_84" PC="85">
+            <Bank Name="ELECTRONICA_B35_84"/>
+         </PC>
+         <PC Name="ELECTRONICA_B36_85" PC="86">
+            <Bank Name="ELECTRONICA_B36_85"/>
+         </PC>
+         <PC Name="ELECTRONICA_B37_86" PC="87">
+            <Bank Name="ELECTRONICA_B37_86"/>
+         </PC>
+         <PC Name="ELECTRONICA_B38_87" PC="88">
+            <Bank Name="ELECTRONICA_B38_87"/>
+         </PC>
+         <PC Name="D'n'B/BREAKS_B41_88" PC="89">
+            <Bank Name="D'n'B/BREAKS_B41_88"/>
+         </PC>
+         <PC Name="D'n'B/BREAKS_B42_89" PC="90">
+            <Bank Name="D'n'B/BREAKS_B42_89"/>
+         </PC>
+         <PC Name="D'n'B/BREAKS_B43_90" PC="91">
+            <Bank Name="D'n'B/BREAKS_B43_90"/>
+         </PC>
+         <PC Name="D'n'B/BREAKS_B44_91" PC="92">
+            <Bank Name="D'n'B/BREAKS_B44_91"/>
+         </PC>
+         <PC Name="D'n'B/BREAKS_B45_92" PC="93">
+            <Bank Name="D'n'B/BREAKS_B45_92"/>
+         </PC>
+         <PC Name="D'n'B/BREAKS_B46_93" PC="94">
+            <Bank Name="D'n'B/BREAKS_B46_93"/>
+         </PC>
+         <PC Name="D'n'B/BREAKS_B47_94" PC="95">
+            <Bank Name="D'n'B/BREAKS_B47_94"/>
+         </PC>
+         <PC Name="D'n'B/BREAKS_B48_95" PC="96">
+            <Bank Name="D'n'B/BREAKS_B48_95"/>
+         </PC>
+         <PC Name="HIPHOP_B51_96" PC="97">
+            <Bank Name="HIPHOP_B51_96"/>
+         </PC>
+         <PC Name="HIPHOP_B52_97" PC="98">
+            <Bank Name="HIPHOP_B52_97"/>
+         </PC>
+         <PC Name="HIPHOP_B53_98" PC="99">
+            <Bank Name="HIPHOP_B53_98"/>
+         </PC>
+         <PC Name="HIPHOP_B54_99" PC="100">
+            <Bank Name="HIPHOP_B54_99"/>
+         </PC>
+         <PC Name="HIPHOP_B55_100" PC="101">
+            <Bank Name="HIPHOP_B55_100"/>
+         </PC>
+         <PC Name="HIPHOP_B56_101" PC="102">
+            <Bank Name="HIPHOP_B56_101"/>
+         </PC>
+         <PC Name="HIPHOP_B57_102" PC="103">
+            <Bank Name="HIPHOP_B57_102"/>
+         </PC>
+         <PC Name="HIPHOP_B58_103" PC="104">
+            <Bank Name="HIPHOP_B58_103"/>
+         </PC>
+         <PC Name="RETRO_B61_104" PC="105">
+            <Bank Name="RETRO_B61_104"/>
+         </PC>
+         <PC Name="RETRO_B62_105" PC="106">
+            <Bank Name="RETRO_B62_105"/>
+         </PC>
+         <PC Name="RETRO_B63_106" PC="107">
+            <Bank Name="RETRO_B63_106"/>
+         </PC>
+         <PC Name="RETRO_B64_107" PC="108">
+            <Bank Name="RETRO_B64_107"/>
+         </PC>
+         <PC Name="RETRO_B65_108" PC="109">
+            <Bank Name="RETRO_B65_108"/>
+         </PC>
+         <PC Name="RETRO_B66_109" PC="110">
+            <Bank Name="RETRO_B66_109"/>
+         </PC>
+         <PC Name="RETRO_B67_110" PC="111">
+            <Bank Name="RETRO_B67_110"/>
+         </PC>
+         <PC Name="RETRO_B68_111" PC="112">
+            <Bank Name="RETRO_B68_111"/>
+         </PC>
+         <PC Name="S.E./HIT_B71_112" PC="113">
+            <Bank Name="S.E./HIT_B71_112"/>
+         </PC>
+         <PC Name="S.E./HIT_B72_113" PC="114">
+            <Bank Name="S.E./HIT_B72_113"/>
+         </PC>
+         <PC Name="S.E./HIT_B73_114" PC="115">
+            <Bank Name="S.E./HIT_B73_114"/>
+         </PC>
+         <PC Name="S.E./HIT_B74_115" PC="116">
+            <Bank Name="S.E./HIT_B74_115"/>
+         </PC>
+         <PC Name="S.E./HIT_B75_116" PC="117">
+            <Bank Name="S.E./HIT_B75_116"/>
+         </PC>
+         <PC Name="S.E./HIT_B76_117" PC="118">
+            <Bank Name="S.E./HIT_B76_117"/>
+         </PC>
+         <PC Name="S.E./HIT_B77_118" PC="119">
+            <Bank Name="S.E./HIT_B77_118"/>
+         </PC>
+         <PC Name="S.E./HIT_B78_119" PC="120">
+            <Bank Name="S.E./HIT_B78_119"/>
+         </PC>
+         <PC Name="VOCODER_B81_120" PC="121">
+            <Bank Name="VOCODER_B81_120"/>
+         </PC>
+         <PC Name="VOCODER_B82_121" PC="122">
+            <Bank Name="VOCODER_B82_121"/>
+         </PC>
+         <PC Name="VOCODER_B83_122" PC="123">
+            <Bank Name="VOCODER_B83_122"/>
+         </PC>
+         <PC Name="VOCODER_B84_123" PC="124">
+            <Bank Name="VOCODER_B84_123"/>
+         </PC>
+         <PC Name="VOCODER_B85_124" PC="125">
+            <Bank Name="VOCODER_B85_124"/>
+         </PC>
+         <PC Name="VOCODER_B86_125" PC="126">
+            <Bank Name="VOCODER_B86_125"/>
+         </PC>
+         <PC Name="VOCODER_B87_126" PC="127">
+            <Bank Name="VOCODER_B87_126"/>
+         </PC>
+         <PC Name="VOCODER_B88_127" PC="128">
+            <Bank Name="VOCODER_B88_127"/>
+         </PC>
+      </Map>
+      <Map Name="C">
+         <PC Name="TRANCE_C11_128" PC="1">
+            <Bank Name="TRANCE_C11_128" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="TRANCE_C12_129" PC="2">
+            <Bank Name="TRANCE_C12_129" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="TRANCE_C13_130" PC="3">
+            <Bank Name="TRANCE_C13_130" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="TRANCE_C14_131" PC="4">
+            <Bank Name="TRANCE_C14_131" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="TRANCE_C15_132" PC="5">
+            <Bank Name="TRANCE_C15_132" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="TRANCE_C16_133" PC="6">
+            <Bank Name="TRANCE_C16_133" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="TRANCE_C17_134" PC="7">
+            <Bank Name="TRANCE_C17_134" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="TRANCE_C18_135" PC="8">
+            <Bank Name="TRANCE_C18_135" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="TECHNO/HOUSE_C21_136" PC="9">
+            <Bank Name="TECHNO/HOUSE_C21_136" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="TECHNO/HOUSE_C22_137" PC="10">
+            <Bank Name="TECHNO/HOUSE_C22_137" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="TECHNO/HOUSE_C23_138" PC="11">
+            <Bank Name="TECHNO/HOUSE_C23_138" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="TECHNO/HOUSE_C24_139" PC="12">
+            <Bank Name="TECHNO/HOUSE_C24_139" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="TECHNO/HOUSE_C25_140" PC="13">
+            <Bank Name="TECHNO/HOUSE_C25_140" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="TECHNO/HOUSE_C26_141" PC="14">
+            <Bank Name="TECHNO/HOUSE_C26_141" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="TECHNO/HOUSE_C27_142" PC="15">
+            <Bank Name="TECHNO/HOUSE_C27_142" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="TECHNO/HOUSE_C28_143" PC="16">
+            <Bank Name="TECHNO/HOUSE_C28_143" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="ELECTRONICA_C31_144" PC="17">
+            <Bank Name="ELECTRONICA_C31_144" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="ELECTRONICA_C32_145" PC="18">
+            <Bank Name="ELECTRONICA_C32_145" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="ELECTRONICA_C33_146" PC="19">
+            <Bank Name="ELECTRONICA_C33_146" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="ELECTRONICA_C34_147" PC="20">
+            <Bank Name="ELECTRONICA_C34_147" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="ELECTRONICA_C35_148" PC="21">
+            <Bank Name="ELECTRONICA_C35_148" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="ELECTRONICA_C36_149" PC="22">
+            <Bank Name="ELECTRONICA_C36_149" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="ELECTRONICA_C37_150" PC="23">
+            <Bank Name="ELECTRONICA_C37_150" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="ELECTRONICA_C38_151" PC="24">
+            <Bank Name="ELECTRONICA_C38_151" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="D'n'B/BREAKS_C41_152" PC="25">
+            <Bank Name="D'n'B/BREAKS_C41_152" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="D'n'B/BREAKS_C42_153" PC="26">
+            <Bank Name="D'n'B/BREAKS_C42_153" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="D'n'B/BREAKS_C43_154" PC="27">
+            <Bank Name="D'n'B/BREAKS_C43_154" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="D'n'B/BREAKS_C44_155" PC="28">
+            <Bank Name="D'n'B/BREAKS_C44_155" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="D'n'B/BREAKS_C45_156" PC="29">
+            <Bank Name="D'n'B/BREAKS_C45_156" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="D'n'B/BREAKS_C46_157" PC="30">
+            <Bank Name="D'n'B/BREAKS_C46_157" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="D'n'B/BREAKS_C47_158" PC="31">
+            <Bank Name="D'n'B/BREAKS_C47_158" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="D'n'B/BREAKS_C48_159" PC="32">
+            <Bank Name="D'n'B/BREAKS_C48_159" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="HIPHOP_C51_160" PC="33">
+            <Bank Name="HIPHOP_C51_160" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="HIPHOP_C52_161" PC="34">
+            <Bank Name="HIPHOP_C52_161" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="HIPHOP_C53_162" PC="35">
+            <Bank Name="HIPHOP_C53_162" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="HIPHOP_C54_163" PC="36">
+            <Bank Name="HIPHOP_C54_163" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="HIPHOP_C55_164" PC="37">
+            <Bank Name="HIPHOP_C55_164" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="HIPHOP_C56_165" PC="38">
+            <Bank Name="HIPHOP_C56_165" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="HIPHOP_C57_166" PC="39">
+            <Bank Name="HIPHOP_C57_166" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="HIPHOP_C58_167" PC="40">
+            <Bank Name="HIPHOP_C58_167" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="RETRO_C61_168" PC="41">
+            <Bank Name="RETRO_C61_168" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="RETRO_C62_169" PC="42">
+            <Bank Name="RETRO_C62_169" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="RETRO_C63_170" PC="43">
+            <Bank Name="RETRO_C63_170" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="RETRO_C64_171" PC="44">
+            <Bank Name="RETRO_C64_171" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="RETRO_C65_172" PC="45">
+            <Bank Name="RETRO_C65_172" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="RETRO_C66_173" PC="46">
+            <Bank Name="RETRO_C66_173" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="RETRO_C67_174" PC="47">
+            <Bank Name="RETRO_C67_174" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="RETRO_C68_175" PC="48">
+            <Bank Name="RETRO_C68_175" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="S.E./HIT_C71_176" PC="49">
+            <Bank Name="S.E./HIT_C71_176" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="S.E./HIT_C72_177" PC="50">
+            <Bank Name="S.E./HIT_C72_177" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="S.E./HIT_C73_178" PC="51">
+            <Bank Name="S.E./HIT_C73_178" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="S.E./HIT_C74_179" PC="52">
+            <Bank Name="S.E./HIT_C74_179" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="S.E./HIT_C75_180" PC="53">
+            <Bank Name="S.E./HIT_C75_180" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="S.E./HIT_C76_181" PC="54">
+            <Bank Name="S.E./HIT_C76_181" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="S.E./HIT_C77_182" PC="55">
+            <Bank Name="S.E./HIT_C77_182" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="S.E./HIT_C78_183" PC="56">
+            <Bank Name="S.E./HIT_C78_183" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="VOCODER_C81_184" PC="57">
+            <Bank Name="VOCODER_C81_184" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="VOCODER_C82_185" PC="58">
+            <Bank Name="VOCODER_C82_185" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="VOCODER_C83_186" PC="59">
+            <Bank Name="VOCODER_C83_186" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="VOCODER_C84_187" PC="60">
+            <Bank Name="VOCODER_C84_187" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="VOCODER_C85_188" PC="61">
+            <Bank Name="VOCODER_C85_188" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="VOCODER_C86_189" PC="62">
+            <Bank Name="VOCODER_C86_189" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="VOCODER_C87_190" PC="63">
+            <Bank Name="VOCODER_C87_190" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="VOCODER_C88_191" PC="64">
+            <Bank Name="VOCODER_C88_191" LSB="0" MSB="1"/>
+         </PC>
+      </Map>
+      <Map Name="D">
+         <PC Name="TRANCE_D11_192" PC="65">
+            <Bank Name="TRANCE_D11_192" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="TRANCE_D12_193" PC="66">
+            <Bank Name="TRANCE_D12_193" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="TRANCE_D13_194" PC="67">
+            <Bank Name="TRANCE_D13_194" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="TRANCE_D14_195" PC="68">
+            <Bank Name="TRANCE_D14_195" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="TRANCE_D15_196" PC="69">
+            <Bank Name="TRANCE_D15_196" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="TRANCE_D16_197" PC="70">
+            <Bank Name="TRANCE_D16_197" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="TRANCE_D17_198" PC="71">
+            <Bank Name="TRANCE_D17_198" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="TRANCE_D18_199" PC="72">
+            <Bank Name="TRANCE_D18_199" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="TECHNO/HOUSE_D21_200" PC="73">
+            <Bank Name="TECHNO/HOUSE_D21_200" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="TECHNO/HOUSE_D22_201" PC="74">
+            <Bank Name="TECHNO/HOUSE_D22_201" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="TECHNO/HOUSE_D23_202" PC="75">
+            <Bank Name="TECHNO/HOUSE_D23_202" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="TECHNO/HOUSE_D24_203" PC="76">
+            <Bank Name="TECHNO/HOUSE_D24_203" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="TECHNO/HOUSE_D25_204" PC="77">
+            <Bank Name="TECHNO/HOUSE_D25_204" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="TECHNO/HOUSE_D26_205" PC="78">
+            <Bank Name="TECHNO/HOUSE_D26_205" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="TECHNO/HOUSE_D27_206" PC="79">
+            <Bank Name="TECHNO/HOUSE_D27_206" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="TECHNO/HOUSE_D28_207" PC="80">
+            <Bank Name="TECHNO/HOUSE_D28_207" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="ELECTRONICA_D31_208" PC="81">
+            <Bank Name="ELECTRONICA_D31_208" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="ELECTRONICA_D32_209" PC="82">
+            <Bank Name="ELECTRONICA_D32_209" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="ELECTRONICA_D33_210" PC="83">
+            <Bank Name="ELECTRONICA_D33_210" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="ELECTRONICA_D34_211" PC="84">
+            <Bank Name="ELECTRONICA_D34_211" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="ELECTRONICA_D35_212" PC="85">
+            <Bank Name="ELECTRONICA_D35_212" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="ELECTRONICA_D36_213" PC="86">
+            <Bank Name="ELECTRONICA_D36_213" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="ELECTRONICA_D37_214" PC="87">
+            <Bank Name="ELECTRONICA_D37_214" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="ELECTRONICA_D38_215" PC="88">
+            <Bank Name="ELECTRONICA_D38_215" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="D'n'B/BREAKS_D41_216" PC="89">
+            <Bank Name="D'n'B/BREAKS_D41_216" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="D'n'B/BREAKS_D42_217" PC="90">
+            <Bank Name="D'n'B/BREAKS_D42_217" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="D'n'B/BREAKS_D43_218" PC="91">
+            <Bank Name="D'n'B/BREAKS_D43_218" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="D'n'B/BREAKS_D44_219" PC="92">
+            <Bank Name="D'n'B/BREAKS_D44_219" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="D'n'B/BREAKS_D45_220" PC="93">
+            <Bank Name="D'n'B/BREAKS_D45_220" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="D'n'B/BREAKS_D46_221" PC="94">
+            <Bank Name="D'n'B/BREAKS_D46_221" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="D'n'B/BREAKS_D47_222" PC="95">
+            <Bank Name="D'n'B/BREAKS_D47_222" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="D'n'B/BREAKS_D48_223" PC="96">
+            <Bank Name="D'n'B/BREAKS_D48_223" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="HIPHOP_D51_224" PC="97">
+            <Bank Name="HIPHOP_D51_224" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="HIPHOP_D52_225" PC="98">
+            <Bank Name="HIPHOP_D52_225" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="HIPHOP_D53_226" PC="99">
+            <Bank Name="HIPHOP_D53_226" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="HIPHOP_D54_227" PC="100">
+            <Bank Name="HIPHOP_D54_227" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="HIPHOP_D55_228" PC="101">
+            <Bank Name="HIPHOP_D55_228" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="HIPHOP_D56_229" PC="102">
+            <Bank Name="HIPHOP_D56_229" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="HIPHOP_D57_230" PC="103">
+            <Bank Name="HIPHOP_D57_230" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="HIPHOP_D58_231" PC="104">
+            <Bank Name="HIPHOP_D58_231" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="RETRO_D61_232" PC="105">
+            <Bank Name="RETRO_D61_232" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="RETRO_D62_233" PC="106">
+            <Bank Name="RETRO_D62_233" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="RETRO_D63_234" PC="107">
+            <Bank Name="RETRO_D63_234" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="RETRO_D64_235" PC="108">
+            <Bank Name="RETRO_D64_235" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="RETRO_D65_236" PC="109">
+            <Bank Name="RETRO_D65_236" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="RETRO_D66_237" PC="110">
+            <Bank Name="RETRO_D66_237" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="RETRO_D67_238" PC="111">
+            <Bank Name="RETRO_D67_238" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="RETRO_D68_239" PC="112">
+            <Bank Name="RETRO_D68_239" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="S.E./HIT_D71_240" PC="113">
+            <Bank Name="S.E./HIT_D71_240" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="S.E./HIT_D72_241" PC="114">
+            <Bank Name="S.E./HIT_D72_241" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="S.E./HIT_D73_242" PC="115">
+            <Bank Name="S.E./HIT_D73_242" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="S.E./HIT_D74_243" PC="116">
+            <Bank Name="S.E./HIT_D74_243" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="S.E./HIT_D75_244" PC="117">
+            <Bank Name="S.E./HIT_D75_244" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="S.E./HIT_D76_245" PC="118">
+            <Bank Name="S.E./HIT_D76_245" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="S.E./HIT_D77_246" PC="119">
+            <Bank Name="S.E./HIT_D77_246" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="S.E./HIT_D78_247" PC="120">
+            <Bank Name="S.E./HIT_D78_247" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="VOCODER_D81_248" PC="121">
+            <Bank Name="VOCODER_D81_248" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="VOCODER_D82_249" PC="122">
+            <Bank Name="VOCODER_D82_249" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="VOCODER_D83_250" PC="123">
+            <Bank Name="VOCODER_D83_250" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="VOCODER_D84_251" PC="124">
+            <Bank Name="VOCODER_D84_251" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="VOCODER_D85_252" PC="125">
+            <Bank Name="VOCODER_D85_252" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="VOCODER_D86_253" PC="126">
+            <Bank Name="VOCODER_D86_253" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="VOCODER_D87_254" PC="127">
+            <Bank Name="VOCODER_D87_254" LSB="0" MSB="1"/>
+         </PC>
+         <PC Name="VOCODER_D88_255" PC="128">
+            <Bank Name="VOCODER_D88_255" LSB="0" MSB="1"/>
+         </PC>
+      </Map>
+   </InstrumentList>
+   <ControlChangeMacroList>
+      <Folder Name="PerformEdit">
+         <CCM ID="130" Name="PitchBend" Color="#0fa806" Sync="Last">
+            <Value Min="-8192" Max="8191" Offset="8192"/>
+            <Memo>音程を変化させます。</Memo>
+            <Data>@PB #VH #VL</Data>
+         </CCM>
+         <CCM ID="140" Name="PitchBend Range" Sync="Last">
+            <Value Default="2" Min="0" Max="24"/>
+            <Memo>ピッチベンドで変わる音程の最大値を設定します。12で1オクターブです。</Memo>
+            <Data>@RPN 00H 00H #VL #NONE</Data>
+         </CCM>
+         <CCM ID="1" Name="Modulation" Color="#1c1cfb" Sync="Last">
+            <Value/>
+            <Memo>音の揺らぐ深さを設定します。</Memo>
+            <Data>@CC 1 #VL</Data>
+         </CCM>
+         <CCM ID="11" Name="Expression" Color="#CA0000" Sync="Last">
+            <Value/>
+            <Memo>パートの音量を設定します。主に演奏中の抑揚表現に使用します。</Memo>
+            <Data>@CC 11 #VL</Data>
+         </CCM>
+         <CCM ID="64" Name="Hold1">
+            <Value>
+               <Entry Label="Off" Value="0"/>
+               <Entry Label="On" Value="127"/>
+            </Value>
+            <Memo>音を持続させるかどうかを設定します。</Memo>
+            <Data>@CC 64 #VL</Data>
+         </CCM>
+      </Folder>
+      <Folder Name="PartEdit">
+         <CCM ID="7" Name="Part Level" Color="#CA0000" Sync="Last">
+            <Value Default="100"/>
+            <Memo>パートの音量バランスを設定します。</Memo>
+            <Data>@CC 7 #VL</Data>
+         </CCM>
+         <CCM ID="10" Name="Part Panpot" Color="#008080" Sync="Last">
+            <Value Min="-64" Max="63" Offset="64"/>
+            <Memo>音の定位を設定します。</Memo>
+            <Data>@CC 10 #VL</Data>
+         </CCM>
+         <CCM ID="141" Name="MasterFineTuning">
+            <Value Min="-8192" Max="8191" Offset="8192"/>
+            <Memo/>
+            <Data>@RPN 00H 01H #VH #VL</Data>
+         </CCM>
+         <CCM ID="142" Name="MasterCoarseTuning">
+            <Value Min="-24" Max="24" Offset="64"/>
+            <Memo/>
+            <Data>@RPN 00H 02H #VL #NONE</Data>
+         </CCM>
+      </Folder>
+      <Folder Name="Other">
+         <CCM ID="6" Name="DataEntryMSB">
+            <Value/>
+            <Memo>データエントリMSBを設定します。</Memo>
+            <Data>@CC 6 #VL</Data>
+         </CCM>
+         <CCM ID="38" Name="DataEntryLSB">
+            <Value/>
+            <Memo>データエントリLSBを設定します。</Memo>
+            <Data>@CC 38 #VL</Data>
+         </CCM>
+         <CCM ID="100" Name="RPN LSB">
+            <Value/>
+            <Memo/>
+            <Data>@CC 100 #VL</Data>
+         </CCM>
+         <CCM ID="101" Name="RPN MSB">
+            <Value/>
+            <Memo/>
+            <Data>@CC 101 #VL</Data>
+         </CCM>
+         <CCM ID="121" Name="ResetAllController">
+            <Memo/>
+            <Data>@CC 121 0</Data>
+         </CCM>
+         <CCM ID="123" Name="AllNoteOff">
+            <Memo/>
+            <Data>@CC 123 0</Data>
+         </CCM>
+         <CCM ID="132" Name="ChannelPressure">
+            <Value/>
+            <Memo/>
+            <Data>@CP #VL</Data>
+         </CCM>
+         <CCM ID="200" Name="GM System ON">
+            <Data>@SYSEX F0H 7EH 7FH 09H 01H F7H</Data>
+            <Memo>GM音源を初期化します。</Memo>
+         </CCM>
+         <CCM ID="128" Name="Rest" Color="#aaaaaa">
+            <Memo>休符です。</Memo>
+         </CCM>
+      </Folder>
+   </ControlChangeMacroList>
+   <TemplateList>
+      <Template ID="0" Name="トラック初期化">
+         <Memo>トラック初期化用テンプレートです。</Memo>
+         <CC ID="7" Value="100"/>
+         <CC ID="10" Value="0"/>
+         <PC Mode="Auto"/>
+         <CC ID="130" Value="0"/>
+         <CC ID="1" Value="0"/>
+         <CC ID="11" Value="127"/>
+      </Template>
+   </TemplateList>
+   <DefaultData>
+      <Track Mode="Conductor">
+         <Mark Tick="0" Name="Setup"/>
+         <Tempo Tick="0" Tempo="120.0"/>
+         <Mark Tick="1920" Name="Start"/>
+         <EOT Tick="1920"/>
+      </Track>
+      <Track Name="Setup" Ch="1">
+         <CC Tick="0" ID="200"/>
+         <EOT Tick="1920"/>
+      </Track>
+      <Track Ch="1" Current="1">
+         <Template ID="0" Tick="480"/>
+         <EOT Tick="1920"/>
+      </Track>
+      <Track Ch="2">
+         <Template ID="0" Tick="480"/>
+         <EOT Tick="1920"/>
+      </Track>
+      <Track Ch="3">
+         <Template ID="0" Tick="480"/>
+         <EOT Tick="1920"/>
+      </Track>
+      <Track Ch="4">
+         <Template ID="0" Tick="480"/>
+         <EOT Tick="1920"/>
+      </Track>
+      <Track Ch="5">
+         <Template ID="0" Tick="480"/>
+         <EOT Tick="1920"/>
+      </Track>
+      <Track Ch="6">
+         <Template ID="0" Tick="480"/>
+         <EOT Tick="1920"/>
+      </Track>
+      <Track Ch="7">
+         <Template ID="0" Tick="480"/>
+         <EOT Tick="1920"/>
+      </Track>
+      <Track Ch="8">
+         <Template ID="0" Tick="480"/>
+         <EOT Tick="1920"/>
+      </Track>
+      <Track Ch="9">
+         <Template ID="0" Tick="480"/>
+         <EOT Tick="1920"/>
+      </Track>
+      <Track Name="Rhythm" Ch="10" Mode="Rhythm">
+         <Template ID="0" Tick="480"/>
+         <EOT Tick="1920"/>
+      </Track>
+      <Track Ch="11">
+         <Template ID="0" Tick="480"/>
+         <EOT Tick="1920"/>
+      </Track>
+      <Track Ch="12">
+         <Template ID="0" Tick="480"/>
+         <EOT Tick="1920"/>
+      </Track>
+      <Track Ch="13">
+         <Template ID="0" Tick="480"/>
+         <EOT Tick="1920"/>
+      </Track>
+      <Track Ch="14">
+         <Template ID="0" Tick="480"/>
+         <EOT Tick="1920"/>
+      </Track>
+      <Track Ch="15">
+         <Template ID="0" Tick="480"/>
+         <EOT Tick="1920"/>
+      </Track>
+      <Track Ch="16">
+         <Template ID="0" Tick="480"/>
+         <EOT Tick="1920"/>
+      </Track>
+   </DefaultData>
+</ModuleData>
